@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":576.717553324977,
                  "id":22,
                  "name":"cluster4.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":608.973996874353,
                  "x":1807.72551081448,
                  "y":937.784708351601
                 }, 
                 {
-                 "class":"area",
                  "height":576.862309889921,
                  "id":23,
                  "name":"cluster4.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":1214.4595222887,
                  "x":2419.52316353739,
                  "y":938.143270795401
                 }, 
                 {
-                 "class":"area",
                  "height":578.900932924982,
                  "id":24,
                  "name":"cluster4.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":605.817933220069,
                  "x":3634.57146043618,
                  "y":935.6013287517
                 }, 
                 {
-                 "class":"area",
                  "height":517.49998222222,
                  "id":25,
                  "name":"cluster4.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":608.052814458508,
                  "x":1809.45707304428,
                  "y":1892.57625865825
                 }, 
                 {
-                 "class":"area",
                  "height":517.074975215211,
                  "id":26,
                  "name":"cluster4.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":599.505805911501,
                  "x":2417.79160130758,
                  "y":1893.30832647065
                 }, 
                 {
-                 "class":"area",
                  "height":517.271233418591,
                  "id":27,
                  "name":"cluster4.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":610.594756502229,
                  "x":3022.77380771328,
                  "y":1893.30832647065
                 }, 
                 {
-                 "class":"area",
                  "height":518.694871281862,
                  "id":28,
                  "name":"cluster4.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":609.784376688292,
                  "x":3631.10833597667,
                  "y":1893.00212922656
                 }, 
                 {
-                 "class":"area",
                  "height":286.76,
                  "id":849,
                  "name":"buzz_3",
@@ -1383,13 +1382,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":194.24,
                  "x":1118.6,
                  "y":1728.69
                 }, 
                 {
-                 "class":"area",
                  "height":94.081698295272,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1400,6 +1399,7 @@
                          "value":"admin.json#entry"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":95.6899324541653,
                  "x":833.065294306851,
@@ -2527,7 +2527,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -66846,7 +66846,7 @@
         {
          "columns":40,
          "firstgid":119660,
-         "image":"..\/SP_Main1\/tilesets\/portals.png",
+         "image":"tilesets\/portals.png",
          "imageheight":2560,
          "imagewidth":1280,
          "margin":0,
@@ -66871,6 +66871,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":149
 }

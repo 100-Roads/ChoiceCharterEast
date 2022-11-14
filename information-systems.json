@@ -1223,7 +1223,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":608.973996874353,
                  "x":1807.72551081448,
@@ -1245,7 +1245,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1214.4595222887,
                  "x":2419.52316353739,
@@ -1267,7 +1267,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":605.817933220069,
                  "x":3634.57146043618,
@@ -1289,7 +1289,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":608.052814458508,
                  "x":1809.45707304428,
@@ -1311,7 +1311,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":599.505805911501,
                  "x":2417.79160130758,
@@ -1333,7 +1333,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":610.594756502229,
                  "x":3022.77380771328,
@@ -1355,7 +1355,7 @@
                          "value":-1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":609.784376688292,
                  "x":3631.10833597667,
@@ -1382,7 +1382,7 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":194.24,
                  "x":1118.6,
@@ -1399,7 +1399,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":95.6899324541653,
                  "x":833.065294306851,

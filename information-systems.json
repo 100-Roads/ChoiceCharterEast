@@ -1208,7 +1208,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":576.717553324977,
                  "id":22,
                  "name":"cluster4.1",
@@ -1224,13 +1223,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":608.973996874353,
                  "x":1807.72551081448,
                  "y":937.784708351601
                 }, 
                 {
-                 "class":"area",
                  "height":576.862309889921,
                  "id":23,
                  "name":"cluster4.2",
@@ -1246,13 +1245,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1214.4595222887,
                  "x":2419.52316353739,
                  "y":938.143270795401
                 }, 
                 {
-                 "class":"area",
                  "height":578.900932924982,
                  "id":24,
                  "name":"cluster4.3",
@@ -1268,13 +1267,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":605.817933220069,
                  "x":3634.57146043618,
                  "y":935.6013287517
                 }, 
                 {
-                 "class":"area",
                  "height":517.49998222222,
                  "id":25,
                  "name":"cluster4.4",
@@ -1290,13 +1289,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":608.052814458508,
                  "x":1809.45707304428,
                  "y":1892.57625865825
                 }, 
                 {
-                 "class":"area",
                  "height":517.074975215211,
                  "id":26,
                  "name":"cluster4.5",
@@ -1312,13 +1311,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":599.505805911501,
                  "x":2417.79160130758,
                  "y":1893.30832647065
                 }, 
                 {
-                 "class":"area",
                  "height":517.271233418591,
                  "id":27,
                  "name":"cluster4.6",
@@ -1334,13 +1333,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":610.594756502229,
                  "x":3022.77380771328,
                  "y":1893.30832647065
                 }, 
                 {
-                 "class":"area",
                  "height":518.694871281862,
                  "id":28,
                  "name":"cluster4.7",
@@ -1356,13 +1355,13 @@
                          "value":-1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":609.784376688292,
                  "x":3631.10833597667,
                  "y":1893.00212922656
                 }, 
                 {
-                 "class":"area",
                  "height":286.76,
                  "id":849,
                  "name":"buzz_3",
@@ -1383,13 +1382,13 @@
                          "value":"Click HERE to open website in new tab"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":194.24,
                  "x":1118.6,
                  "y":1728.69
                 }, 
                 {
-                 "class":"area",
                  "height":60.9720786084713,
                  "id":881,
                  "name":"exit-to-admin",
@@ -1400,13 +1399,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.475167353494,
                  "x":1679.13091123866,
                  "y":2449.3213089384
                 }, 
                 {
-                 "class":"area",
                  "height":62.4256759358192,
                  "id":882,
                  "name":"exit-to-hs",
@@ -1417,13 +1416,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-health-science-"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.5628297408512,
                  "x":1839.26058083228,
                  "y":2444.68074619949
                 }, 
                 {
-                 "class":"area",
                  "height":62.7571711909063,
                  "id":888,
                  "name":"map",
@@ -1434,13 +1433,13 @@
                          "value":"https:\/\/www.thinglink.com\/card\/1649574403752591361"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.023829963589,
                  "x":864.391225837009,
                  "y":2432.43243243243
                 }, 
                 {
-                 "class":"area",
                  "height":59.0965,
                  "id":894,
                  "name":"exit-to-business",
@@ -1451,13 +1450,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-business"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":67.93,
                  "x":1998.0547044335,
                  "y":2449.66973029557
                 }, 
                 {
-                 "class":"area",
                  "height":63.1107,
                  "id":895,
                  "name":"exit-to-gh-1",
@@ -1468,13 +1467,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-genius-hour-1"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.0675,
                  "x":336.868371523536,
                  "y":2799.23112022944
                 }, 
                 {
-                 "class":"area",
                  "height":61.3204,
                  "id":896,
                  "name":"exit-to-gh-2",
@@ -1485,13 +1484,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-genius-hour-2"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.0024,
                  "x":336.807371523536,
                  "y":2608.77112022944
                 }, 
                 {
-                 "class":"area",
                  "height":60.6719,
                  "id":897,
                  "name":"exit-to-pl",
@@ -1502,13 +1501,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-project-labs"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.8023,
                  "x":336.359371523536,
                  "y":2416.03112022944
                 }, 
                 {
-                 "class":"area",
                  "height":60.4237,
                  "id":898,
                  "name":"exit-to-fc",
@@ -1519,6 +1518,7 @@
                          "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/fitnes_center.json"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.2577,
                  "x":335.194371523536,
@@ -2646,7 +2646,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.4",
  "tileheight":32,
  "tilesets":[
         {
@@ -67029,6 +67029,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":149
 }
